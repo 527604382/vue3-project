@@ -1,4 +1,4 @@
-# user-service
+# userservice
 
 ## Project setup
 ```
